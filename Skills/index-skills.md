@@ -17,3 +17,5 @@ Each skill file includes: name · purpose · when to trigger · parameters
 
 - [Pat AI Team Director](pat-ai-team-director/SKILL.md): Customized copy of the AI team director skill with all 14 member blueprints, shared template, and Soul System brand routing.
 - [Pat AI Team Director package](pat-ai-team-director.skill): Importable package with the full skill and reference set.
+- [Dr. Renee's Custom GPT Suite](dr-renee-gpt-suite/SKILL.md): Routes requests across all 20 entries shown in ChatGPT My GPTs, including named GPTs and five Untitled drafts.
+- [Dr. Renee's Custom GPT Suite package](dr-renee-gpt-suite.skill): Importable package with the skill and GPT catalog.
